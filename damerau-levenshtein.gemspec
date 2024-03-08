@@ -30,7 +30,7 @@ Gem::Specification.new do |s|
   s.add_development_dependency "coveralls", "~> 0.8"
   s.add_development_dependency "cucumber", "~> 4.1"
   s.add_development_dependency "rake", "~> 13.0"
-  s.add_development_dependency "rake-compiler", "~> 1.1"
+  s.add_development_dependency "rake-compiler", "1.2.7"
   s.add_development_dependency "rspec", "~> 3.9"
   s.add_development_dependency "rubocop", "~> 0.88"
   s.add_development_dependency "ruby-prof", "~> 1.4"
